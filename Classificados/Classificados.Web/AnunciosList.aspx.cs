@@ -17,7 +17,7 @@ namespace Classificados.Web
         protected string GetTextBoolean(object objBoolean)
         {
             string strText = (objBoolean == null) ? string.Empty : objBoolean.ToString();
-            return (strText == "True") ? "Sim" : "Não";
+            return (strText == "True") ? "Sim" : "Não"; // novo
         }
     }
 }

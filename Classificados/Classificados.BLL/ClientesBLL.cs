@@ -47,7 +47,7 @@ namespace Classificados.BLL
             cliente.Endereco = c.Endereco;
             cliente.Estado = c.Estado;
             cliente.Nome = c.Nome;
-            cliente.Telefone = c.Telefone;            
+            //cliente.Telefone = c.Telefone;            
             ClassificadosInstanceDB.db.SaveChanges();
         }
 
