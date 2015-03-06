@@ -1,0 +1,10 @@
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Persistencia\bin\Release\Classificados.Persistencia.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Persistencia\bin\Release\Classificados.Persistencia.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Persistencia\bin\Release\Classificados.Dominio.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Persistencia\bin\Release\Classificados.Dominio.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Persistencia\obj\Release\ResolveAssemblyReference.cache
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Persistencia\obj\Release\Classificados.Persistencia.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Persistencia\obj\Release\Classificados.Persistencia.pdb
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Persistencia\obj\Release\Classificados.Persistencia.csprojResolveAssemblyReference.cache
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Persistencia\obj\Release\Classificados.Persistencia.dll
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Persistencia\obj\Release\Classificados.Persistencia.pdb

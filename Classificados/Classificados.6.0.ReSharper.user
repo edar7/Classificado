@@ -1,0 +1,472 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AF3EB0D3-BE97-4D35-ADE0-4A225238BBB1/f:Secoes.cs" caret="380" fromTop="15" />
+      <File id="AF3EB0D3-BE97-4D35-ADE0-4A225238BBB1/f:Anuncios.cs" caret="489" fromTop="20" />
+      <File id="7FD11F53-8219-47C9-85BD-C2B67AC8980D/f:ClassificadosContext.cs" caret="384" fromTop="14" />
+      <File id="86EE3944-2D21-41D7-AFD3-14E22822A1BC/f:Console.cs" caret="262" fromTop="7" />
+      <File id="86EE3944-2D21-41D7-AFD3-14E22822A1BC/f:AnunciosTest.cs" caret="2273" fromTop="10" />
+      <File id="86EE3944-2D21-41D7-AFD3-14E22822A1BC/f:ClientesTest.cs" caret="1325" fromTop="16" />
+      <File id="86EE3944-2D21-41D7-AFD3-14E22822A1BC/f:App.config" caret="60" fromTop="2" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:AnunciosList.aspx.cs" caret="365" fromTop="16" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:AnunciosList.aspx" caret="2559" fromTop="10" />
+      <File id="7FD11F53-8219-47C9-85BD-C2B67AC8980D/f:Repositorio.cs" caret="364" fromTop="15" />
+      <File id="C2CA763B-CDAB-46D4-B308-C604E043AF7B/f:ClassificadosInstanceDB.cs" caret="271" fromTop="10" />
+      <File id="C2CA763B-CDAB-46D4-B308-C604E043AF7B/f:ClientesBLL.cs" caret="0" fromTop="0" />
+      <File id="C2CA763B-CDAB-46D4-B308-C604E043AF7B/f:AnunciosBLL.cs" caret="2700" fromTop="22" />
+      <File id="C2CA763B-CDAB-46D4-B308-C604E043AF7B/f:SecoesBLL.cs" caret="1899" fromTop="29" />
+      <File id="86EE3944-2D21-41D7-AFD3-14E22822A1BC/f:SecoesTest.cs" caret="1396" fromTop="16" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Web.config" caret="356" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Default.aspx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Global.asax.cs" caret="1402" fromTop="24" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx.cs" caret="465" fromTop="11" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/d:Components/f:GrayTextBox.cs" caret="246" fromTop="10" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/d:Utils/f:Autenticacao.cs" caret="191" fromTop="9" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx" caret="1331" fromTop="5" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Menu.ascx.cs" caret="345" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:ManterSecoes.aspx.cs" caret="174" fromTop="7" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Clientes.aspx.cs" caret="315" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Anuncios.aspx.cs" caret="371" fromTop="15" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Menu.ascx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Anuncios.aspx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:ManterSecoes.aspx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Clientes.aspx" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="86EE3944-2D21-41D7-AFD3-14E22822A1BC/f:SecoesTest.cs" caret="1358" fromTop="14" />
+      <File id="C2CA763B-CDAB-46D4-B308-C604E043AF7B/f:SecoesBLL.cs" caret="1846" fromTop="27" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Global.asax.cs" caret="1440" fromTop="29" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:ManterSecoes.aspx" caret="760" fromTop="16" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Web.config" caret="356" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Default.aspx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx.cs" caret="1020" fromTop="11" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx" caret="1139" fromTop="9" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx" caret="426" fromTop="8" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx" caret="1349" fromTop="28" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx" caret="1382" fromTop="5" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx" caret="1331" fromTop="5" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx.cs" caret="595" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx.cs" caret="580" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Login.aspx.cs" caret="870" fromTop="22" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Global.asax.cs" caret="1402" fromTop="24" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/d:Components/f:GrayTextBox.cs" caret="246" fromTop="10" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Anuncios.aspx.cs" caret="382" fromTop="22" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/d:Utils/f:Autenticacao.cs" caret="479" fromTop="14" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/d:Utils/f:Autenticacao.cs" caret="440" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/d:Utils/f:Autenticacao.cs" caret="191" fromTop="9" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Menu.ascx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Clientes.aspx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:ManterSecoes.aspx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:ManterSecoes.aspx.cs" caret="331" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Menu.ascx.cs" caret="373" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Clientes.aspx.cs" caret="315" fromTop="13" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Anuncios.aspx" caret="0" fromTop="0" />
+      <File id="32E86845-991E-4474-8C57-3C44D468FE8F/f:Anuncios.aspx.cs" caret="392" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="int" priority="256" />
+      <Item value="public" priority="511" />
+      <Item value="string" priority="63" />
+      <Item value="virtual" priority="31" />
+      <Item value="ICollection" priority="31" />
+      <Item value="byte" priority="31" />
+      <Item value="bool" priority="95" />
+      <Item value="DbSet`0" priority="31" />
+      <Item value="using" priority="371" />
+      <Item value="Classificados" priority="706" />
+      <Item value="Dominio" priority="274" />
+      <Item value="Secoes`0" priority="385" />
+      <Item value="Anuncios`0" priority="360" />
+      <Item value="Clientes`0" priority="316" />
+      <Item value="System" priority="122" />
+      <Item value="ComponentModel" priority="26" />
+      <Item value="DataAnnotations" priority="26" />
+      <Item value="ScaffoldTable" priority="26" />
+      <Item value="class" priority="31" />
+      <Item value="protected" priority="31" />
+      <Item value="override" priority="31" />
+      <Item value="Database" priority="31" />
+      <Item value="ClassificadosContext`0" priority="180" />
+      <Item value="new" priority="319" />
+      <Item value="DropCreateDatabaseIfModelChanges&lt;ClassificadosContext&gt;" priority="28" />
+      <Item value="modelBuilder" priority="31" />
+      <Item value="static" priority="94" />
+      <Item value="ClassificadosContext" priority="28" />
+      <Item value="return" priority="95" />
+      <Item value="context" priority="63" />
+      <Item value="if" priority="415" />
+      <Item value="ContextBoundObject`0" priority="63" />
+      <Item value="this" priority="159" />
+      <Item value="null" priority="159" />
+      <Item value="else" priority="127" />
+      <Item value="void" priority="287" />
+      <Item value="TestMethod" priority="149" />
+      <Item value="private" priority="159" />
+      <Item value="Persistencia" priority="80" />
+      <Item value="repositorio" priority="159" />
+      <Item value="Repositorio`0" priority="95" />
+      <Item value="TestInitialize" priority="63" />
+      <Item value="var" priority="703" />
+      <Item value="Secoes" priority="29" />
+      <Item value="Descricao" priority="31" />
+      <Item value="secoes" priority="320" />
+      <Item value="DateTime`0" priority="127" />
+      <Item value="BLL" priority="252" />
+      <Item value="SecoesBLL" priority="25" />
+      <Item value="SecoesBLL`0" priority="279" />
+      <Item value="Assert`0" priority="287" />
+      <Item value="idSecao" priority="95" />
+      <Item value="Anuncios" priority="82" />
+      <Item value="SecoesTest" priority="28" />
+      <Item value="idAnuncio" priority="127" />
+      <Item value="anuncios" priority="127" />
+      <Item value="AnuncioModificado" priority="31" />
+      <Item value="ALTAnuncio" priority="26" />
+      <Item value="AnuncioExclusao" priority="63" />
+      <Item value="AnunciosBLL`0" priority="245" />
+      <Item value="AnuncioAposExclusao" priority="31" />
+      <Item value="s" priority="191" />
+      <Item value="ClassificadosInstanceDB`0" priority="127" />
+      <Item value="totalRegistros" priority="31" />
+      <Item value="titulo" priority="31" />
+      <Item value="anuncio" priority="159" />
+      <Item value="InserirAnuncioBLLTest`0" priority="63" />
+      <Item value="TestCleanup" priority="26" />
+      <Item value="d" priority="63" />
+      <Item value="secao" priority="191" />
+      <Item value="secaoModificada" priority="31" />
+      <Item value="secaoExclusao" priority="95" />
+      <Item value="secaoAposExclusao" priority="31" />
+      <Item value="cliente" priority="767" />
+      <Item value="ClientesBLL`0" priority="176" />
+      <Item value="idCliente" priority="191" />
+      <Item value="c" priority="287" />
+      <Item value="clienteModificado" priority="122" />
+      <Item value="InserirClienteTest`0" priority="31" />
+      <Item value="Clientes" priority="28" />
+      <Item value="clienteAntes" priority="117" />
+      <Item value="ClienteExclusao" priority="63" />
+      <Item value="ClienteAposExclusao" priority="26" />
+      <Item value="Web" priority="27" />
+      <Item value="UI" priority="26" />
+      <Item value="WebControls" priority="26" />
+      <Item value="TextBox`0" priority="26" />
+      <Item value="GrayTextBox`0" priority="31" />
+      <Item value="Drawing" priority="53" />
+      <Item value="Color`0" priority="53" />
+      <Item value="true" priority="127" />
+      <Item value="fvClientes" priority="63" />
+      <Item value="FormViewMode`0" priority="31" />
+      <Item value="gvClientes" priority="31" />
+      <Item value="Listar`0" priority="127" />
+      <Item value="decimal" priority="31" />
+      <Item value="a" priority="159" />
+      <Item value="ddlSecoes" priority="63" />
+      <Item value="secaoSelecionada" priority="31" />
+      <Item value="gvAnuncios" priority="223" />
+      <Item value="populargvAnuncios`0" priority="127" />
+      <Item value="e" priority="352" />
+      <Item value="DropDownList`0" priority="32" />
+      <Item value="Edit" priority="16" />
+      <Item value="ID" priority="31" />
+      <Item value="Convert`0" priority="31" />
+      <Item value="Anuncio" priority="31" />
+      <Item value="Page" priority="159" />
+      <Item value="ClientScript" priority="31" />
+      <Item value="Guid`0" priority="31" />
+      <Item value="from" priority="63" />
+      <Item value="char" priority="31" />
+      <Item value="where" priority="31" />
+      <Item value="select" priority="31" />
+      <Item value="retorno" priority="95" />
+      <Item value="ExisteSecao`0" priority="31" />
+      <Item value="throw" priority="31" />
+      <Item value="Exception" priority="29" />
+      <Item value="gdvSecoes" priority="26" />
+      <Item value="secaoUpdate" priority="31" />
+      <Item value="#endregion" priority="63" />
+      <Item value="Route" priority="28" />
+      <Item value="PageRouteHandler" priority="28" />
+      <Item value="txtLogin" priority="63" />
+      <Item value="txtSenha" priority="31" />
+      <Item value="Session" priority="63" />
+      <Item value="Response" priority="95" />
+      <Item value="pnlAutenticado" priority="31" />
+      <Item value="autenticado" priority="95" />
+      <Item value="pnlSemAutenticacao" priority="31" />
+      <Item value="HttpContext`0" priority="96" />
+      <Item value="HttpResponse`0" priority="31" />
+      <Item value="VerificarAutenticacao`0" priority="31" />
+      <Item value="Utils" priority="31" />
+      <Item value="Autenticacao`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.Database">
+      <Item value="SetInitializer`1" priority="26" />
+      <Item value="Connection" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbModelBuilder">
+      <Item value="Conventions" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.Configuration.ConventionsConfiguration">
+      <Item value="Remove`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Classificados.Persistencia.Repositorio">
+      <Item value="context" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Classificados.Persistencia.Repositorio">
+      <Item value="Iniciar`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Classificados.Persistencia.ClassificadosContext">
+      <Item value="Secoes" priority="107" />
+      <Item value="SaveChanges`0" priority="80" />
+      <Item value="Anuncios" priority="80" />
+      <Item value="Clientes" priority="188" />
+      <Item value="Database" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="Add`0" priority="109" />
+      <Item value="Remove`0" priority="81" />
+      <Item value="ToList`1" priority="26" />
+      <Item value="FirstOrDefault`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Classificados.Dominio.Clientes">
+      <Item value="Estado" priority="103" />
+      <Item value="Cidade" priority="323" />
+      <Item value="Endereco" priority="80" />
+      <Item value="Nome" priority="80" />
+      <Item value="Telefone" priority="80" />
+      <Item value="idCliente" priority="242" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Classificados.BLL.SecoesBLL">
+      <Item value="Inserir`0" priority="53" />
+      <Item value="Listar`0" priority="107" />
+      <Item value="Alterar`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsTrue`0" priority="134" />
+      <Item value="AreEqual`1" priority="26" />
+      <Item value="IsNotInstanceOfType`0" priority="26" />
+      <Item value="IsNull`0" priority="26" />
+      <Item value="IsNotNull`0" priority="26" />
+      <Item value="AreNotSame`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList`1" priority="161" />
+      <Item value="Count`1" priority="80" />
+      <Item value="FirstOrDefault`1" priority="53" />
+      <Item value="Where`1" priority="161" />
+      <Item value="Take`1" priority="26" />
+      <Item value="SingleOrDefault`1" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Classificados.Dominio.Secoes">
+      <Item value="idSecao" priority="404" />
+      <Item value="Descricao" priority="297" />
+      <Item value="Anuncios" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Classificados.Teste.SecoesTest">
+      <Item value="inserirSecoesBLLTest`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Classificados.Dominio.Anuncios">
+      <Item value="idAnuncio" priority="53" />
+      <Item value="Titulo" priority="188" />
+      <Item value="Descricao" priority="80" />
+      <Item value="Destaque" priority="80" />
+      <Item value="dtPublicacao" priority="80" />
+      <Item value="dtValidade" priority="53" />
+      <Item value="Promocao" priority="26" />
+      <Item value="secoes" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Classificados.BLL.AnunciosBLL">
+      <Item value="Listar`0" priority="107" />
+      <Item value="Count`0" priority="26" />
+      <Item value="ListarSecao`0" priority="53" />
+      <Item value="Alterar`0" priority="26" />
+      <Item value="Excluir`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Classificados.BLL.ClassificadosInstanceDB">
+      <Item value="db" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Common.DbConnection">
+      <Item value="BeginTransaction`0" priority="26" />
+      <Item value="Close`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Classificados.BLL.ClientesBLL">
+      <Item value="Listar`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Classificados.Web.Components.GrayTextBox">
+      <Item value="BackColor" priority="27" />
+      <Item value="BorderColor" priority="26" />
+      <Item value="Font" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="LightGray" priority="26" />
+      <Item value="Black" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.FontInfo">
+      <Item value="Bold" priority="26" />
+      <Item value="Size" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.FormView">
+      <Item value="ChangeMode`0" priority="26" />
+      <Item value="PageIndex" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.UI.WebControls.FormViewMode">
+      <Item value="Edit" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="SelectedIndex" priority="53" />
+      <Item value="DataSource" priority="26" />
+      <Item value="DataBind`0" priority="26" />
+      <Item value="EditIndex" priority="26" />
+      <Item value="Rows" priority="80" />
+      <Item value="DataKeys" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="AspCodeCompletionContext">
+      <Item value="OnClientClick" priority="6" />
+      <Item value="h2" priority="6" />
+      <Item value="Excluir`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="135" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="SelectedValue" priority="53" />
+      <Item value="SelectedItem" priority="107" />
+      <Item value="Items" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewRowEventArgs">
+      <Item value="Row" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewRow">
+      <Item value="RowState" priority="80" />
+      <Item value="RowIndex" priority="53" />
+      <Item value="FindControl`0" priority="26" />
+      <Item value="Cells" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableCell">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItem">
+      <Item value="Value" priority="53" />
+      <Item value="Selected" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItemCollection">
+      <Item value="FindByValue`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewEditEventArgs">
+      <Item value="NewEditIndex" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DataKey">
+      <Item value="Values" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="135" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewCancelEditEventArgs">
+      <Item value="RowIndex" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.UI.WebControls.DataControlRowState">
+      <Item value="Normal" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewUpdateEventArgs">
+      <Item value="NewValues" priority="80" />
+      <Item value="Keys" priority="26" />
+      <Item value="RowIndex" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDateTime`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewDeleteEventArgs">
+      <Item value="Keys" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.Page">
+      <Item value="RegisterStartupScript`0" priority="26" />
+      <Item value="GetType`0" priority="26" />
+      <Item value="IsPostBack" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.ClientScriptManager">
+      <Item value="RegisterStartupScript`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Contains`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Routing.RouteTable">
+      <Item value="Routes" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Write`0" priority="26" />
+      <Item value="Redirect`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Panel">
+      <Item value="Visible" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="Server" priority="26" />
+      <Item value="Response" priority="26" />
+      <Item value="Session" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Classificados.Web.Utils.Autenticacao">
+      <Item value="VerificarAutenticacao`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="MSTest" Id="Classificados.Teste.ClientesTest" type="MsTestTestClassElement" TypeName="Classificados.Teste.ClientesTest" Project="86EE3944-2D21-41D7-AFD3-14E22822A1BC" />
+        <UnitTestElement Provider="MSTest" Id="Classificados.Teste.SecoesTest" type="MsTestTestClassElement" TypeName="Classificados.Teste.SecoesTest" Project="86EE3944-2D21-41D7-AFD3-14E22822A1BC" />
+        <UnitTestElement Provider="MSTest" Id="Classificados.Teste.ClientesTest.alterarClienteBLLTest" ParentId="Classificados.Teste.ClientesTest" type="MsTestTestMethodElement" MethodName="alterarClienteBLLTest" Project="86EE3944-2D21-41D7-AFD3-14E22822A1BC" />
+        <UnitTestElement Provider="MSTest" Id="Classificados.Teste.SecoesTest.alterarSecoesBLLTest" ParentId="Classificados.Teste.SecoesTest" type="MsTestTestMethodElement" MethodName="alterarSecoesBLLTest" Project="86EE3944-2D21-41D7-AFD3-14E22822A1BC" />
+        <UnitTestElement Provider="MSTest" Id="Classificados.Teste.ClientesTest.ExcluirClienteBLLTest" ParentId="Classificados.Teste.ClientesTest" type="MsTestTestMethodElement" MethodName="ExcluirClienteBLLTest" Project="86EE3944-2D21-41D7-AFD3-14E22822A1BC" />
+        <UnitTestElement Provider="MSTest" Id="Classificados.Teste.ClientesTest.InserirClienteTest" ParentId="Classificados.Teste.ClientesTest" type="MsTestTestMethodElement" MethodName="InserirClienteTest" Project="86EE3944-2D21-41D7-AFD3-14E22822A1BC" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+</Configuration>

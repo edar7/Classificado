@@ -1,0 +1,22 @@
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\bin\Classificados.Web.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\bin\Classificados.Web.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\bin\Classificados.BLL.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\bin\Classificados.Dominio.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\bin\Classificados.Persistencia.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\bin\Classificados.BLL.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\bin\Classificados.Dominio.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\bin\Classificados.Persistencia.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\obj\Release\ResolveAssemblyReference.cache
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\obj\Release\Classificados.Web.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Web\obj\Release\Classificados.Web.pdb
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\bin\Classificados.Web.dll
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\bin\Classificados.Web.pdb
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\bin\Classificados.BLL.dll
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\bin\Classificados.Dominio.dll
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\bin\Classificados.Persistencia.dll
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\bin\Classificados.BLL.pdb
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\bin\Classificados.Dominio.pdb
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\bin\Classificados.Persistencia.pdb
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\obj\Release\Classificados.Web.csprojResolveAssemblyReference.cache
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\obj\Release\Classificados.Web.dll
+G:\AULA- Projeto\Video\Classificado\Classificados\Classificados.Web\obj\Release\Classificados.Web.pdb

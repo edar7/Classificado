@@ -1,0 +1,9 @@
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.BLL\bin\Debug\Classificados.BLL.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.BLL\bin\Debug\Classificados.BLL.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.BLL\bin\Debug\Classificados.Persistencia.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.BLL\bin\Debug\Classificados.Persistencia.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.BLL\obj\Debug\Classificados.BLL.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.BLL\obj\Debug\Classificados.BLL.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.BLL\bin\Debug\Classificados.Dominio.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.BLL\bin\Debug\Classificados.Dominio.pdb

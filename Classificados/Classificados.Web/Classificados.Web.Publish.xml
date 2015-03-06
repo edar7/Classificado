@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\classificados" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Estudo" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="12/27/2011 00:21:27" />
+    <file relUrl="ManterSecoes.aspx" publishTime="12/21/2011 00:54:51" />
+    <file relUrl="bin/Classificados.Persistencia.pdb" publishTime="12/27/2011 00:10:26" />
+    <file relUrl="Login.aspx" publishTime="12/21/2011 00:26:47" />
+    <file relUrl="bin/Classificados.Dominio.dll" publishTime="12/27/2011 00:10:24" />
+    <file relUrl="bin/Classificados.BLL.dll" publishTime="12/27/2011 00:10:26" />
+    <file relUrl="bin/Classificados.Dominio.pdb" publishTime="12/27/2011 00:10:24" />
+    <file relUrl="bin/Classificados.Web.pdb" publishTime="12/27/2011 00:18:25" />
+    <file relUrl="AnunciosList.aspx" publishTime="11/26/2011 22:33:08" />
+    <file relUrl="bin/Classificados.Persistencia.dll" publishTime="12/27/2011 00:10:26" />
+    <file relUrl="bin/Classificados.BLL.pdb" publishTime="12/27/2011 00:10:26" />
+    <file relUrl="Anuncios.aspx" publishTime="12/21/2011 00:57:20" />
+    <file relUrl="Menu.ascx" publishTime="12/21/2011 01:02:46" />
+    <file relUrl="Clientes.aspx" publishTime="12/21/2011 00:53:31" />
+    <file relUrl="Global.asax" publishTime="12/20/2011 23:30:30" />
+    <file relUrl="bin/Classificados.Web.dll" publishTime="12/27/2011 00:18:25" />
+    <file relUrl="Default.aspx" publishTime="09/07/2011 18:38:04" />
+  </publishProfile>
+</publishData>

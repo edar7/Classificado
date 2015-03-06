@@ -1,0 +1,12 @@
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\bin\Debug\Classificados.Teste.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\bin\Debug\Classificados.Teste.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\obj\Debug\Classificados.Teste.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\obj\Debug\Classificados.Teste.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\bin\Debug\Classificados.Dominio.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\bin\Debug\Classificados.Persistencia.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\bin\Debug\Classificados.Dominio.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\bin\Debug\Classificados.Persistencia.pdb
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\bin\Debug\Classificados.Teste.dll.config
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\bin\Debug\Classificados.BLL.dll
+D:\My Dropbox\TRABALHO\Devmedia\Fontes\Sistema de Classificados\Fontes Devmedia\VS 2010\Classificados\Classificados.Teste\bin\Debug\Classificados.BLL.pdb

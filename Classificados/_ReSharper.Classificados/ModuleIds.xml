@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="C2CA763B-CDAB-46D4-B308-C604E043AF7B" ModuleId="Classificados.BLL" />
+  <Module PersistentId="7FD11F53-8219-47C9-85BD-C2B67AC8980D" ModuleId="Classificados.Persistencia" />
+  <Module PersistentId="86EE3944-2D21-41D7-AFD3-14E22822A1BC" ModuleId="Classificados.Teste" />
+  <Module PersistentId="32E86845-991E-4474-8C57-3C44D468FE8F" ModuleId="Classificados.Web_1" />
+  <Module PersistentId="AF3EB0D3-BE97-4D35-ADE0-4A225238BBB1" ModuleId="Classificados.Dominio" />
+</Modules>
